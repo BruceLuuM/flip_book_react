@@ -1,1 +1,1 @@
-# flip_book_react
+# React + Vite +Tailwind
